@@ -1,1 +1,2 @@
 # Vector-Database
+This is a simple vector database implemented in Python. It's structure is relatively easy to understand and it's easy to use. It's also very fast and efficient. It's a good choice for small projects.
